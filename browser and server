@@ -1,0 +1,4 @@
+A browser is an application that allows for you to see both front-end and back-end code developed into a website, such as YouTube, even the Google search bar itself, etc etc.
+It's something that reads HTML, CSS and JS code, and turns it into something that we can interact with or watch videos on.
+A server on the other thand is where information is sent, recieved, and contained. A server sends requests for example, for a person to access
+a certain part of a website after having the user input their password while signing in, and such.
